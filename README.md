@@ -6,13 +6,14 @@ Eu sou **Davi Passos**, um jovem desenvolvedor web apaixonado por tudo que envol
 
 - **HTML:** Gosto de construir páginas web bem estruturadas, com atenção à semântica e organização do conteúdo.
 - **CSS:** Curto transformar ideias em interfaces bonitas e responsivas, com um foco em usabilidade.
-- **JavaScript:** Estou constantemente aprendendo novas formas de deixar as páginas interativas e dinâmicas.
+- **JavaScript:** Já tenho boa experiência criando interações dinâmicas e funcionais para a web.
+- **PHP:** Trabalho com PHP para criar aplicações robustas, integrar bancos de dados e desenvolver backends eficientes.
 
 ## 📚 Em Aprendizado
 
 - **React:** Começando a desenvolver interfaces com componentes reutilizáveis, focando na organização e no gerenciamento de estado.
 - **Node.js:** Explorando o backend com foco em criação de APIs, rotas e lógica de servidor.
-- **PHP:** Dando os primeiros passos com PHP, entendendo sua aplicação em servidores e integração com bancos de dados.
+- **Unity & C#:** Me aventurando no desenvolvimento de jogos com Unity e aprendendo C# para criar mecânicas, sistemas e interações no ambiente 3D.
 
 ## 🧠 O Que Me Motiva
 
