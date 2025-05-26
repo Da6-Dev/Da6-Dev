@@ -1,38 +1,39 @@
-# E aí gente! 👋
+# E aí, gente! 👋
 
-Eu sou Davi Passos, um jovem programador web apaixonado por tudo que envolve desenvolvimento e criatividade. Estou no ensino médio e, enquanto estudo as matérias do dia a dia, também me dedico a melhorar minhas habilidades em HTML, CSS e JavaScript.
+Eu sou **Davi Passos**, um jovem desenvolvedor web apaixonado por tudo que envolve tecnologia, criatividade e inovação. Atualmente, estou cursando **Licenciatura em Matemática na UNIFEI** e finalizando um curso técnico de **Desenvolvimento de Sistemas no SENAI**. Enquanto estudo, venho me dedicando com entusiasmo ao aprimoramento das minhas habilidades em programação e produção audiovisual.
 
 ## 🚀 Habilidades
 
-- **HTML:** Sou fã de construir páginas web de forma bem estruturada e organizada.
-- **CSS:** Adoro criar designs responsivos e estilos que deixam as páginas bonitas e funcionais.
-- **JavaScript:** Estou aprendendo a criar interações legais e dinâmicas para tornar a web mais divertida!
+- **HTML:** Gosto de construir páginas web bem estruturadas, com atenção à semântica e organização do conteúdo.
+- **CSS:** Curto transformar ideias em interfaces bonitas e responsivas, com um foco em usabilidade.
+- **JavaScript:** Estou constantemente aprendendo novas formas de deixar as páginas interativas e dinâmicas.
 
-## 📚 Habilidades em Aprendizado
+## 📚 Em Aprendizado
 
-- **React:** Estou começando a explorar o desenvolvimento de interfaces com React. Estou aprendendo a criar componentes reutilizáveis e a gerenciar o estado das aplicações.
-- **Node.js:** Também estou iniciando no mundo do backend com Node.js, desenvolvendo servidores e trabalhando com APIs.
+- **React:** Começando a desenvolver interfaces com componentes reutilizáveis, focando na organização e no gerenciamento de estado.
+- **Node.js:** Explorando o backend com foco em criação de APIs, rotas e lógica de servidor.
+- **PHP:** Dando os primeiros passos com PHP, entendendo sua aplicação em servidores e integração com bancos de dados.
 
-## 🎯 O que Estou Buscando
+## 🧠 O Que Me Motiva
 
-- **Aprender Sempre:** Estou sempre à procura de novas tecnologias e técnicas para melhorar minhas habilidades. Cada dia é uma nova chance para aprender algo incrível!
-- **Projetos Pessoais:** Gosto de me envolver em projetos próprios para colocar em prática o que aprendo e explorar novas ideias.
-- **Trabalhar em Equipe:** Curto colaborar com outros desenvolvedores e trocar experiências. Acredito que aprendemos muito quando trabalhamos juntos.
+- **Aprender Sempre:** Acredito que cada dia é uma nova oportunidade de crescer. Sou movido por curiosidade e vontade de aprender.
+- **Projetos Pessoais:** Gosto de aplicar o que aprendo em projetos próprios, seja criando sites, jogos ou explorando ideias criativas.
+- **Trabalho em Equipe:** Valorizo muito a troca de experiências. Aprendemos e evoluímos mais quando colaboramos.
 
-## 🎥 O que Eu Curto
+## 🎮 Projetos e Iniciativas
 
-Fora do mundo da programação, sou apaixonado por audiovisual e design. Gosto de produzir vídeos sobre vários temas e explorar diferentes formas de expressão através da imagem e do som. Também sou um grande fã de arte e meu gênero musical preferido é rap.
+Atualmente, participo do projeto de extensão **[DEV-U](https://dev-unifei.github.io)**, onde estamos desenvolvendo jogos virtuais na UNIFEI. Essa experiência tem me ajudado a aplicar meus conhecimentos em programação de forma prática e colaborativa.
 
-## 📚 Minha Jornada Escolar
+## 🎥 Interesses Pessoais
 
-Atualmente, estou cursando o ensino médio e, além das aulas normais, estou me dedicando ao desenvolvimento web e buscando me aprimorar a cada dia.
+Fora do código, sou apaixonado por **audiovisual e design**. Produzo vídeos, edito imagens e curto explorar diferentes formas de expressão criativa. Também sou um grande fã de **arte e música**, especialmente **rap**, que me inspira tanto no dia a dia quanto nos projetos criativos.
 
-## 📫 Vamos Conversar!
+## 📫 Vamos Conversar?
 
-- [LinkedIn](https://www.linkedin.com)
-- [Twitter](https://www.twitter.com)
-- [Email](mailto:seuemail@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/davipsss/)
+- [Instagram](https://www.instagram.com/davi_psss/)
+- [Email](mailto:davipassos213@gmail.com)
 
 ---
 
-"Estou sempre pronto para aprender algo novo e dar o meu melhor, um passo de cada vez." 🚀
+> “Estou sempre pronto para aprender algo novo e dar o meu melhor, um passo de cada vez.” 🚀
