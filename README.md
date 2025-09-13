@@ -1,40 +1,58 @@
-# E aí, gente! 👋
+# 👋 Olá, eu sou o Davi Passos  
 
-Eu sou **Davi Passos**, um jovem desenvolvedor web apaixonado por tudo que envolve tecnologia, criatividade e inovação. Atualmente, estou cursando **Licenciatura em Matemática na UNIFEI** e finalizando um curso técnico de **Desenvolvimento de Sistemas no SENAI**. Enquanto estudo, venho me dedicando com entusiasmo ao aprimoramento das minhas habilidades em programação e produção audiovisual.
+💻 **Desenvolvedor Web & Estudante de Matemática**  
+📍 UNIFEI | SENAI | Entusiasta de Jogos e Tecnologia  
 
-## 🚀 Habilidades
-
-- **HTML:** Gosto de construir páginas web bem estruturadas, com atenção à semântica e organização do conteúdo.
-- **CSS:** Curto transformar ideias em interfaces bonitas e responsivas, com um foco em usabilidade.
-- **JavaScript:** Já tenho boa experiência criando interações dinâmicas e funcionais para a web.
-- **PHP:** Trabalho com PHP para criar aplicações robustas, integrar bancos de dados e desenvolver backends eficientes.
-
-## 📚 Em Aprendizado
-
-- **React:** Começando a desenvolver interfaces com componentes reutilizáveis, focando na organização e no gerenciamento de estado.
-- **Node.js:** Explorando o backend com foco em criação de APIs, rotas e lógica de servidor.
-- **Unity & C#:** Me aventurando no desenvolvimento de jogos com Unity e aprendendo C# para criar mecânicas, sistemas e interações no ambiente 3D.
-
-## 🧠 O Que Me Motiva
-
-- **Aprender Sempre:** Acredito que cada dia é uma nova oportunidade de crescer. Sou movido por curiosidade e vontade de aprender.
-- **Projetos Pessoais:** Gosto de aplicar o que aprendo em projetos próprios, seja criando sites, jogos ou explorando ideias criativas.
-- **Trabalho em Equipe:** Valorizo muito a troca de experiências. Aprendemos e evoluímos mais quando colaboramos.
-
-## 🎮 Projetos e Iniciativas
-
-Atualmente, participo do projeto de extensão **[DEV-U](https://dev-unifei.github.io)**, onde estamos desenvolvendo jogos virtuais na UNIFEI. Essa experiência tem me ajudado a aplicar meus conhecimentos em programação de forma prática e colaborativa.
-
-## 🎥 Interesses Pessoais
-
-Fora do código, sou apaixonado por **audiovisual e design**. Produzo vídeos, edito imagens e curto explorar diferentes formas de expressão criativa. Também sou um grande fã de **arte e música**, especialmente **rap**, que me inspira tanto no dia a dia quanto nos projetos criativos.
-
-## 📫 Vamos Conversar?
-
-- [LinkedIn](https://www.linkedin.com/in/davipsss/)
-- [Instagram](https://www.instagram.com/davi_psss/)
-- [Email](mailto:davipassos213@gmail.com)
+Sou um jovem desenvolvedor apaixonado por **programação, jogos e criatividade**. Atualmente curso **Licenciatura em Matemática na UNIFEI** e finalizei um curso técnico em **Análise e Desenvolvimento de Sistemas no SENAI**. Além dos estudos, participo de projetos e iniciativas que unem **tecnologia, arte e inovação**.  
 
 ---
 
-> “Estou sempre pronto para aprender algo novo e dar o meu melhor, um passo de cada vez.” 🚀
+## 🚀 Habilidades Principais  
+
+- **HTML** → Estruturação de páginas web com foco em semântica e organização.  
+- **CSS** → Criação de interfaces responsivas e atraentes, priorizando usabilidade.  
+- **JavaScript** → Desenvolvimento de interações dinâmicas e funcionais.  
+- **PHP & MySQL** → Criação de backends robustos, integração com bancos de dados e sistemas web.  
+
+---
+
+## 📚 Em Aprendizado  
+
+- ⚛️ **React** → Interfaces com componentes reutilizáveis e gerenciamento de estado.  
+- 🌐 **Node.js** → Construção de APIs, rotas e lógica de servidor.  
+- 🎮 **Unity & C#** → Desenvolvimento de jogos digitais, mecânicas e sistemas interativos.  
+
+---
+
+## 🧠 O que me motiva  
+
+- 🔎 **Aprender Sempre** → Curiosidade e vontade de evoluir a cada dia.  
+- 🛠️ **Projetos Pessoais** → Aplicar o conhecimento em jogos, sites e ideias criativas.  
+- 🤝 **Trabalho em Equipe** → Colaboração como forma de crescimento mútuo.  
+
+---
+
+## 🎮 Projetos e Iniciativas  
+
+- 🚀 **[DEV-U](https://dev-unifei.github.io)** – Projeto de extensão da UNIFEI, onde atuo no **desenvolvimento de jogos**, participando tanto do design de ideias quanto da programação.  
+
+---
+
+## 🎨 Interesses Pessoais  
+
+Fora do código, me aventuro em:  
+- 🎥 **Audiovisual e Design** – produção de vídeos, edição de imagens e expressão criativa.  
+- 🎶 **Música & Arte** – grande fã de rap, que inspira meu dia a dia e meus projetos.  
+
+---
+
+## 📫 Vamos Conversar?  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/davipsss/)  
+- 📸 [Instagram](https://www.instagram.com/davi_psss/)  
+- ✉️ [Email](mailto:davipassos213@gmail.com)  
+
+---
+
+✨ *“Sempre pronto para aprender algo novo e dar o meu melhor, um passo de cada vez.”*  
+
