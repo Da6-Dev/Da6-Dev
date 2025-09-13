@@ -13,7 +13,7 @@
     <td width="50%">
       <h2>🚀 Core Skills</h2>
       <p><img src="https://cdn.simpleicons.org/html5/E34F26" width="20" height="20" alt="HTML5"/>&nbsp; <b>HTML:</b> Building semantic and well-structured web pages.</p>
-      <p><img src="https://cdn.simpleicons.org/css3/1572B6" width="20" height="20" alt="CSS3"/>&nbsp; <b>CSS:</b> Creating responsive and engaging interfaces with a focus on usability.</p>
+      <p><img src="https://cdn.simpleicons.org/css/1572B6" width="20" height="20" alt="CSS3"/>&nbsp; <b>CSS:</b> Creating responsive and engaging interfaces with a focus on usability.</p>
       <p><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" height="20" alt="JavaScript"/>&nbsp; <b>JavaScript:</b> Developing dynamic and functional interactions.</p>
       <p><img src="https://cdn.simpleicons.org/php/777BB4" width="20" height="20" alt="PHP"/>&nbsp; <b>PHP & MySQL:</b> Building robust backends and database integration.</p>
     </td>
