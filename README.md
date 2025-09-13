@@ -21,7 +21,7 @@
       <h2>📚 Currently Learning</h2>
       <p><img src="https://cdn.simpleicons.org/react/61DAFB" width="20" height="20" alt="React"/>&nbsp; <b>React:</b> Interfaces with reusable components and state management.</p>
       <p><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="20" height="20" alt="Node.js"/>&nbsp; <b>Node.js:</b> Building APIs, routes, and server-side logic.</p>
-      <p><img src="https://cdn.simpleicons.org/unity/FFFFFF" width="20" height="20" alt="Unity"/>&nbsp; <b>Unity & C#:</b> Developing digital games, mechanics, and interactive systems.</p>
+      <p><img src="https://cdn.simpleicons.org/unity/000000" width="20" height="20" alt="Unity"/>&nbsp; <b>Unity & C#:</b> Developing digital games, mechanics, and interactive systems.</p>
     </td>
   </tr>
 </table>
